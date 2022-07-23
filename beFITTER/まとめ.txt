@@ -1,0 +1,23 @@
+Walk  Daily 1-6km/h 4min/E
+Run Fitnesss  6-12km/h  2min/E
+Cycle Racer 10-20km/h 3min/E
+
+Shoe Energy
+Standard +5
+Rare +6
+Iconic +7
+
+Shoe point/lv
+Standard 3
+Rare 4
+Iconic 5
+
+Shoe Earn expired
+Standard 90days
+Rare 120days
+Iconic 180days
+
+Shoe parameter
+Standard 1-20
+Rare 16-35
+Iconic 25-50
